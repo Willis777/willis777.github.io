@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://willis.github.io</id>
+    <id>https://willis777.github.io</id>
     <title>Lucky Willis</title>
-    <updated>2020-10-05T04:50:07.984Z</updated>
+    <updated>2020-10-05T04:50:34.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://willis.github.io"/>
-    <link rel="self" href="https://willis.github.io/atom.xml"/>
+    <link rel="alternate" href="https://willis777.github.io"/>
+    <link rel="self" href="https://willis777.github.io/atom.xml"/>
     <subtitle>Willis的世界</subtitle>
-    <logo>https://willis.github.io/images/avatar.png</logo>
-    <icon>https://willis.github.io/favicon.ico</icon>
+    <logo>https://willis777.github.io/images/avatar.png</logo>
+    <icon>https://willis777.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lucky Willis</rights>
 </feed>
